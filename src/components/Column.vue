@@ -56,7 +56,7 @@ export default {
 }
 
 .ghost {
-	opacity: 0.1;
+	opacity: 0.2;
 	background: var(--font-color);
 }
 </style>
